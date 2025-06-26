@@ -27,11 +27,11 @@ This project is a fully functional e-commerce website built using the MERN (Mong
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mern-ecommerce.git
+   git clone https://github.com/yourusername/Forever-E-commerce.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd mern-ecommerce
+   cd Forever-E-commerce
    ```
 3. Install dependencies for both frontend and backend:
    ```bash
@@ -72,7 +72,7 @@ To deploy the project on Vercel:
 3. Deploy both the frontend and backend separately.
 
 ## Contributors
-- **Divanshi Jain** - [GitHub Profile](https://github.com/DivanshiJain2005)
+- **Sahil Dhanavade** - [GitHub Profile](https://github.com/Sahill1408)
 
 ## License
 This project is licensed under the MIT License.
